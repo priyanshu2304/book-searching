@@ -37,7 +37,7 @@
         :key="book.title"
       >
         <span class="book-search__title">{{ book.title }}</span> by
-        <span class="book-search__author">{{ book.author }}</span> (
+        <span class="book-search__author">{{ book.author }}</span>(
         <span class="book-search__genre">{{ book.genre }}</span
         >)
       </li>
