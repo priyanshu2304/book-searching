@@ -1,5 +1,17 @@
 # test-project-1
 
+## Running Project
+
+You need to clone the file via ssh or https
+
+ssh - git clone git@github.com:priyanshu2304/book-searching.git
+HTTPS- git clone https://github.com/priyanshu2304/book-searching.git
+
+Once it's clones go to the file nd follow below steps 
+1. Npm i
+2. npm run dev
+
+Now run on localhost://3000
 ## Build Setup
 
 ```bash
@@ -67,3 +79,5 @@ This directory contains your Vuex store files. Creating a file in this directory
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
 # book-searching
+
+
